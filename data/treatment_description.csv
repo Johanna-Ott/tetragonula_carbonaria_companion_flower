@@ -1,0 +1,10 @@
+"","treatment","Similarity","concentration","target_color","target_concentration","companion_color","companion_concentration"
+"1",1,"dissimilar","high","orange",10,"dark_blue",40
+"2",2,"dissimilar","low","orange",10,"light_blue",20
+"3",3,"similar","high","orange",10,"yellow",40
+"4",4,"similar","low","orange",10,"red",20
+"5",5,"control","control","orange",10,"orange",10
+"6",6,"dissimilar","high","orange",10,"light_blue",40
+"7",7,"dissimilar","low","orange",10,"dark_blue",20
+"8",8,"similar","high","orange",10,"red",40
+"9",9,"similar","low","orange",10,"yellow",20
